@@ -75,9 +75,11 @@ Based on the dashboard insights:
 - Power BI (.pbix)
   The Power BI (.pbix) file exceeds GitHub’s file size limit and is available upon request.
 - Dashboard Screenshots
-  <img width="846" height="568" alt="Final-Covid-19 dashboard" src="https://github.com/user-attachments/assets/5f74418b-b84f-49ce-af92-c05cbb5f1e1a" />
+  <img width="1664" height="1086" alt="THE CLEAR COVID19 DASHBOARD" src="https://github.com/user-attachments/assets/5119fe73-6afc-4a3e-a323-bf3b5a6503e4" />
+
 - Presentation Slides
-  [COVID-19 PRESENTATION SLIDES.pdf](https://github.com/user-attachments/files/29442960/COVID-19.PRESENTATION.SLIDES.pdf)
+ [COVID-19 PRESENTATION SLIDES.pdf](https://github.com/user-attachments/files/29443264/COVID-19.PRESENTATION.SLIDES.pdf)
+
 
 ---
 
