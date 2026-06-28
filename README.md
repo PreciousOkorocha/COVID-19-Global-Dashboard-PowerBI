@@ -73,7 +73,7 @@ Based on the dashboard insights:
 ## Files Included
 
 - Power BI (.pbix)
-  The Power BI (.pbix) file exceeds GitHub’s file size limit and is available upon request.
+  https://drive.google.com/file/d/1ujlb5tOV4Ib8MM73Ww_Yv1vgrtJTqkh4/view?usp=sharing
 - Dashboard Screenshots
   <img width="1664" height="1086" alt="THE CLEAR COVID19 DASHBOARD" src="https://github.com/user-attachments/assets/5119fe73-6afc-4a3e-a323-bf3b5a6503e4" />
 
